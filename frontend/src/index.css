@@ -1,0 +1,12 @@
+
+
+/* Minimal reset */
+* {
+  box-sizing: border-box;
+}
+
+/* Clean body (NO background) */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}

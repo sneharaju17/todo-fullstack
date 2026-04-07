@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+python-multipart
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+python-jose
+<<<<<<< HEAD
+fastapi-mail
+# 🔥 NEW (RAG)
+langchain
+chromadb
+sentence-transformers
+transformers
+torch
+
+=======
+fastapi-mail
+>>>>>>> 24093ea5c0a2ca47dba0157f216cc3b270aee77d
