@@ -56,23 +56,15 @@ return (
 
         {/* Create Todo */}
 
-<div className="mt-6">
-  <CreateTodo onCreateTodoSuccess={handleCreateTodoSuccess} />
-</div>
 
-{/* ✅ AI Query */}
-<div className="mt-6">
-  <AIQuery />
-</div>
-
-{/* Todo List */}
-<div className="mt-6 space-y-3 max-h-[260px] overflow-y-auto">
-  <TodoList refresh={refresh} />
-</div>
 
         <div className="mt-6">
           <CreateTodo onCreateTodoSuccess={handleCreateTodoSuccess} />
         </div>
+        {/* ✅ AI Query */}
+<div className="mt-6">
+  <AIQuery />
+</div>
 
         {/* Todo List */}
         <div className="mt-6 space-y-3 max-h-[260px] overflow-y-auto">
