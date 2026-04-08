@@ -62,10 +62,7 @@ return (
     <h3 className="text-lg font-semibold text-gray-800 text-center">
       Create Todo
     </h3>
-<<<<<<< HEAD
-    
-=======
->>>>>>> 24093ea5c0a2ca47dba0157f216cc3b270aee77d
+
 
     {/* Input - Title */}
     <input
@@ -112,10 +109,7 @@ return (
         {message}
       </p>
     )}
-<<<<<<< HEAD
-    
-=======
->>>>>>> 24093ea5c0a2ca47dba0157f216cc3b270aee77d
+
 
   </div>
 );

@@ -6,10 +6,7 @@ import PrivateRoute from "./components/PrivateRoute";
 import ForgotPassword from "./pages/ForgotPassword";
 import ResetPassword from "./pages/ResetPassword";
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 24093ea5c0a2ca47dba0157f216cc3b270aee77d
 function App() {
   return (
     <Routes>

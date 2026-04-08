@@ -72,11 +72,7 @@ export default function TodoList({ refresh }: { refresh: boolean }) {
           </button>
         </div>
       ))}
-<<<<<<< HEAD
-      
-=======
 
->>>>>>> 24093ea5c0a2ca47dba0157f216cc3b270aee77d
     </div>
 
   </div>
